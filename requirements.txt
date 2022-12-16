@@ -2,3 +2,7 @@ this is chat application
 emozi
 type colours
 vibes
+dark  mode
+cool 
+hot 
+somthing new
